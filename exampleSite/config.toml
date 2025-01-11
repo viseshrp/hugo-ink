@@ -2,15 +2,12 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Ink"
 theme = "ink"
-paginate = 5
 
 copyright = "© Copyright notice"
 
 pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
-googleAnalytics = "UA-123-45"
 
 [params]
 	subtitle = "Crisp, minimal personal [blog theme for Hugo](https://github.com/knadh/hugo-ink)"
